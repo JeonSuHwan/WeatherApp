@@ -18,14 +18,16 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="오늘의\n날씨는..." />
+            android:layout_marginRight="2dp"
+            android:text="@string/todayWeather" />
 
         <TextView
             android:id="@+id/dayTxt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="hi"
+            android:layout_marginRight="4dp"
+            android:text="@string/dayTxt"
             android:textSize="60sp" />
 
         <TextView
@@ -33,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="hi"
+            android:text="@string/dayTxt2"
             android:textSize="40sp" />
 
     </LinearLayout>

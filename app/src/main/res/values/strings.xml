@@ -3,4 +3,5 @@
     <string name="todayWeather">오늘의\n날씨는...</string>
     <string name="dayTxt">Hi</string>
     <string name="dayTxt2">hi</string>
+    <string name="state">state</string>
 </resources>
